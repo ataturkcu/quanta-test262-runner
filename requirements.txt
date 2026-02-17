@@ -1,0 +1,3 @@
+# Optional but recommended, the runner has a built-in fallback YAML parser,
+# but PyYAML handles edge cases in test262 frontmatter more reliably.
+pyyaml>=6.0.3

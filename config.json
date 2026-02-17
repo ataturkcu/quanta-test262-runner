@@ -1,0 +1,16 @@
+{
+    "engine_path": "./quanta/build/bin/quanta",
+    "engine_args": [],
+    "module_flag": "--module",
+    "test262_path": "./test262",
+    "threads": 9,
+    "timeout": 10,
+    "save_errors": true,
+    "run_both_modes": true,
+    "count_per_file": true,
+    "results_dir": "results",
+    "test_dirs": ["test"],
+    "unsupported_features": ["Proxy"],
+    "skip_tests": [],
+    "skip_dirs": []
+}
